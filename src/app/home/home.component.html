@@ -1,0 +1,10 @@
+<div>
+  <h1>Game</h1>
+  <div>
+    <div *ngFor="let game of games">
+      <div class="item" >
+        <a routerLink="{{game.link}}">{{game.text}}</a>
+      </div>
+    </div>
+  </div>
+</div>

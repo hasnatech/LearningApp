@@ -1,0 +1,18 @@
+<div class="game">
+  <h1>Spelling</h1>
+  <div class="sp_game">
+    <div class="img">
+      <img src="{{selectQuiz.image}}" alt="">
+    </div>
+    <div class="options">
+      <div class="item" *ngFor="let letter of letters">
+        {{letter}}
+      </div>
+    </div>
+    <div class="options">
+      <div class="item" *ngFor="let letter of options" >
+        {{letter}}
+      </div>
+    </div>
+  </div>
+</div>

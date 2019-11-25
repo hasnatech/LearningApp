@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+html, body{
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    .flex-row{
+        flex-direction: row;
+    }
+
+}
+
+.uppercase{
+    text-transform: uppercase;
+} 
+.center{
+    text-align: center;
+}
