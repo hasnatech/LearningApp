@@ -1,0 +1,196 @@
+[
+    [
+        {
+          "image": "assets/kaviya.png",
+          "text": "Kaviya",
+          "audio": "kaviya.mp3",
+          "choices": [
+                { "text": "Kaviya", "value": true
+                },
+                { "text": "Kabir", "value": false
+                },
+                { "text": "Katheeja", "value": false
+                },
+                { "text": "Kumar", "value": false
+                }
+            ]
+        },
+        {
+          "image": "assets/kabir.png",
+          "text": "Kabir",
+          "audio": "kabir.mp3",
+          "choices": [
+                { "text": "Kumar", "value": false
+                },
+                { "text": "Kabir", "value": true
+                },
+                { "text": "Kaviya", "value": false
+                },
+                { "text": "Katheeja", "value": false
+                }
+            ]
+        },
+        {
+          "image": "assets/aeroplane.png",
+          "text": "Aeroplane",
+          "audio": "aeroplane.mp3",
+          "choices": [
+                { "text": "Bus", "value": false
+                },
+                { "text": "Helicopter", "value": false
+                },
+                { "text": "Aeroplane", "value": true
+                },
+                { "text": "Car", "value": false
+                }
+            ]
+        },
+        {
+          "image": "assets/city.png",
+          "text": "City",
+          "audio": "city.mp3",
+          "choices": [
+                { "text": "India", "value": false
+                },
+                { "text": "Building", "value": false
+                },
+                { "text": "State", "value": false
+                },
+                { "text": "City", "value": true
+                }
+            ]
+        },
+        {
+          "image": "assets/flew.png",
+          "text": "Flew",
+          "audio": "flew.mp3",
+          "choices": [
+                { "text": "Fun", "value": false
+                },
+                { "text": "Flew", "value": true
+                },
+                { "text": "Flow", "value": false
+                },
+                { "text": "Flower", "value": false
+                }
+            ]
+        },
+        {
+          "image": "assets/ride.png",
+          "text": "Ride",
+          "audio": "ride.mp3",
+          "choices": [
+                { "text": "Run", "value": false
+                },
+                { "text": "Race", "value": false
+                },
+                { "text": "Ride", "value": true
+                },
+                { "text": "Quit", "value": false
+                }
+            ]
+        },
+        {
+          "image": "assets/zebracrossing.png",
+          "text": "Zebra Crossing",
+          "audio": "zebracrossing.mp3",
+          "choices": [
+                { "text": "Crossing", "value": false
+                },
+                { "text": "Lines", "value": false
+                },
+                { "text": "Zebra Crossing", "value": true
+                },
+                { "text": "Line Crossing", "value": false
+                }
+            ]
+        },
+        {
+          "image": "assets/trafficlights.png",
+          "text": "Traffic Lights",
+          "audio": "trafficlights.mp3",
+          "choices": [
+                { "text": "Police", "value": false
+                },
+                { "text": "Stop", "value": false
+                },
+                { "text": "Traffic Lights", "value": true
+                },
+                { "text": "Signal", "value": false
+                }
+            ]
+        },
+        {
+          "image": "assets/aunty.png",
+          "text": "Aunty",
+          "audio": "aunty.mp3",
+          "choices": [
+                { "text": "Sister", "value": false
+                },
+                { "text": "Brother", "value": false
+                },
+                { "text": "Aunty", "value": true
+                },
+                { "text": "Uncle", "value": false
+                }
+            ]
+        },
+        {
+          "image": "assets/dream.png",
+          "text": "Dream",
+          "audio": "dream.mp3",
+          "choices": [
+                { "text": "Green", "value": false
+                },
+                { "text": "Sleep", "value": false
+                },
+                { "text": "Dream", "value": true
+                },
+                { "text": "Stand", "value": false
+                }
+            ]
+        }
+    ],
+    [
+        {
+          "image": "assets/கண்.png",
+          "text": "கண்",
+          "audio": "கண்.mp3",
+          "answer": [
+                "க",
+                "ண்"
+            ],
+          "choices": [
+                { "text": "கண்", "value": true
+                },
+                { "text": "காது", "value": false
+                },
+                { "text": "மூக்கு", "value": false
+                },
+                { "text": "வாய்", "value": false
+                }
+            ]
+        },
+        {
+          "image": "assets/கப்பல்.png",
+          "text": "கப்பல்",
+          "audio": "கப்பல்.mp3",
+          "answer": [
+                "க",
+                "ப்",
+                "ப",
+                "ல்"
+            ],
+          "choices": [
+                { "text": "கண்", "value": false
+                },
+                { "text": "கப்பல்", "value": true
+                },
+                { "text": "மூக்கு", "value": false
+                },
+                { "text": "வாய்", "value": false
+                }
+            ]
+        }
+    ]
+]

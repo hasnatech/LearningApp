@@ -1,23 +1,43 @@
 .sp_game {
+
   .img {
     img {
       border-radius: 10px;
+      border: 5px solid #3f51b5;
+      box-shadow: 0 0 5px 5px #65656563;
     }
+
     text-align: center;
   }
-  .options{
-      margin-top: 30px;
-      .item{
-          
-          border: 1px solid #ccc;
-          margin: 10px;
-          padding: 10px;
-          text-align: center;
+
+  .options {
+    margin-top: 30px;
+
+    .item {
+
+      /*border: 1px solid #ccc;*/
+      border-radius: 5px;
+      margin: 20px 0;
+      padding: 10px;
+      text-align: center;
+      background-color: #3F51B5;
+      box-shadow: 2px 4px #9a9a9a9e;
+      color: white;
+      cursor: pointer;
+
+      &:hover,
+      &:active {
+        background-color: #3F5133;
+        color: white;
       }
+    }
   }
-  .letter{
-      margin: 10px 0 0;
-      font-size: 30px;
+.letter_panel{
+  margin-top: 20px;
+}
+  .letter {
+    margin: 10px 0 0;
+    font-size: 30px;
 
   }
 }

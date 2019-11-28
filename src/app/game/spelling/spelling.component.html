@@ -4,7 +4,7 @@
     <div class="img">
       <img src="{{selectQuiz.image}}" (click)="playAudio(this.selectQuiz.audio)" alt="">
     </div>
-    <div class="flex">
+    <div class="flex letter_panel">
       <div class="flex-row" *ngFor="let letter of correctLetter">
         <span class="letter" [@EnterLeave]="'flyIn'">{{letter}}</span>
       </div>

@@ -8,7 +8,7 @@ import { SpellingComponent } from './game/spelling/spelling.component';
 import { DragSpellingComponent } from './game/drag-spelling/drag-spelling.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ResultComponent } from './game/result/result.component';
-import { DragDropModule } from '@angular/cdk/drag-drop';
+
 
 @NgModule({
   declarations: [
@@ -22,7 +22,7 @@ import { DragDropModule } from '@angular/cdk/drag-drop';
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    DragDropModule
+    
     
   ],
   providers: [],

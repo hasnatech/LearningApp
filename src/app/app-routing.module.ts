@@ -9,7 +9,7 @@ const routes: Routes = [{
   path:"",
   component:HomeComponent
 },{
-  path:"spelling/1",
+  path:"spelling/:lang/:id",
   component:SpellingComponent
 },{
   path:"drag-spelling",

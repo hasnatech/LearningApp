@@ -10,8 +10,13 @@ export class HomeComponent implements OnInit {
   games = [
     {
       text:"Spelling",
-      link:"/spelling/1"
+      link:"/spelling/en/0"
     },
+    {
+      text:"Tamil Spelling",
+      link:"/spelling/tamil/1"
+    }
+    /*,
     {
       text:"Drag and drop",
       link:"/drag-spelling"
@@ -19,7 +24,7 @@ export class HomeComponent implements OnInit {
     {
       text:"Opposite",
       link:"/opposite/1"
-    }
+    }*/
   ]
 
   constructor() { }
