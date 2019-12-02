@@ -182,15 +182,282 @@
                 "ல்"
             ],
           "choices": [
-                { "text": "கண்", "value": false
+                { "text": "விமானம்", "value": false
                 },
                 { "text": "கப்பல்", "value": true
                 },
-                { "text": "மூக்கு", "value": false
+                { "text": "மிதிவண்டி", "value": false
                 },
-                { "text": "வாய்", "value": false
+                { "text": "பேருந்து", "value": false
                 }
             ]
-        }
+        },
+        {
+            "image": "assets/சக்கரம்.png",
+            "text": "சக்கரம்",
+            "audio": "சக்கரம்.mp3",
+            "answer": [
+                  "ச",
+                  "க்",
+                  "க",
+                  "ர",
+                  "ம்"
+              ],
+            "choices": [
+                  { "text": "வட்டம்", "value": false
+                  },
+                  { "text": "திசைமாற்றி", "value": false
+                  },
+                  { "text": "சக்கரம்", "value": true
+                  },
+                  { "text": "உருளை", "value": false
+                  }
+              ]
+          },
+          {
+            "image": "assets/ஊஞ்சல்.jpg",
+            "text": "ஊஞ்சல்",
+            "audio": "ஊஞ்சல்.mp3",
+            "answer": [
+                  "ஊ",
+                  "ஞ்",
+                  "ச",
+                  "ல்"
+              ],
+            "choices": [
+                  { "text": "ஊஞ்சல்", "value": true
+                  },
+                  { "text": "நாற்காலி", "value": false
+                  },
+                  { "text": "தூண்", "value": false
+                  },
+                  { "text": "தொட்டில்", "value": false
+                  }
+              ]
+          },
+          {
+            "image": "assets/பல்.jpg",
+            "text": "பல்",
+            "audio": "பல்.mp3",
+            "answer": [
+                  "ப",
+                  "ல்"                 
+              ],
+            "choices": [
+                  { "text": "நாக்கு", "value": false
+                  },
+                  { "text": "விரல்", "value": false
+                  },
+                  { "text": "நெற்றி", "value": false
+                  },
+                  { "text": "பல்", "value": true
+                  }
+              ]
+          },
+          {
+            "image": "assets/பட்டம்.jpg",
+            "text": "பட்டம்",
+            "audio": "பட்டம்.mp3",
+            "answer": [
+                  "ப",
+                  "ட்",
+                  "ட",
+                  "ம்"
+              ],
+            "choices": [
+                  { "text": "வண்ணத்துப்பூச்சி", "value": false
+                  },
+                  { "text": "பட்டம்", "value": true
+                  },
+                  { "text": "விமானம்", "value": false
+                  },
+                  { "text": "முக்கோணம்", "value": false
+                  }
+              ]
+          },
+          {
+            "image": "assets/மண்.jpg",
+            "text": "மண்",
+            "audio": "மண்.mp3",
+            "answer": [
+                  "ம",
+                  "ண்"
+              ],
+            "choices": [
+                  { "text": "மண்", "value": true
+                  },
+                  { "text": "கல்", "value": false
+                  },
+                  { "text": "செடி", "value": false
+                  },
+                  { "text": "சர்க்கரை", "value": false
+                  }
+              ]
+          },
+          {
+            "image": "assets/மரம்.jpg",
+            "text": "மரம்",
+            "audio": "மரம்.mp3",
+            "answer": [
+                  "ம",
+                  "ர",
+                  "ம்"
+              ],
+            "choices": [
+                  { "text": "கொடி", "value": false
+                  },
+                  { "text": "காடு", "value": false
+                  },
+                  { "text": "செடி", "value": false
+                  },
+                  { "text": "மரம்", "value": true
+                  }
+              ]
+          },
+          {
+            "image": "assets/மஞ்சள்.jpg",
+            "text": "மஞ்சள்",
+            "audio": "மஞ்சள்.mp3",
+            "answer": [
+                  "ம",
+                  "ஞ்",
+                  "ச",
+                  "ள்"
+              ],
+            "choices": [
+                  { "text": "சீரகம்", "value": false
+                  },
+                  { "text": "குங்குமம்", "value": false
+                  },
+                  { "text": "மஞ்சள்", "value": true
+                  },
+                  { "text": "இஞ்சி", "value": false
+                  }
+              ]
+          },
+          {
+            "image": "assets/பணம்.jpg",
+            "text": "பணம்",
+            "audio": "பணம்.mp3",
+            "answer": [
+                  "ப",
+                  "ண",
+                  "ம்"
+              ],
+            "choices": [
+                  { "text": "பணம்", "value": true
+                  },
+                  { "text": "புத்தகம்", "value": false
+                  },
+                  { "text": "தாள்", "value": false
+                  },
+                  { "text": "இலை", "value": false
+                  }
+              ]
+          },
+          {
+            "image": "assets/நகம்.jpg",
+            "text": "நகம்",
+            "audio": "நகம்.mp3",
+            "answer": [
+                  "ந",
+                  "க",
+                  "ம்"
+              ],
+            "choices": [
+                  { "text": "புருவம்", "value": false
+                  },
+                  { "text": "முடி", "value": false
+                  },
+                  { "text": "நகம்", "value": true
+                  },
+                  { "text": "மூக்கு", "value": false
+                  }
+              ]
+          },
+          {
+            "image": "assets/வட்டம்.jpg",
+            "text": "வட்டம்",
+            "audio": "வட்டம்.mp3",
+            "answer": [
+                  "வ",
+                  "ட்",
+                  "ட",
+                  "ம்"
+              ],
+            "choices": [
+                  { "text": "சதுரம்", "value": false
+                  },
+                  { "text": "முக்கோணம்", "value": false
+                  },
+                  { "text": "செவ்வகம்", "value": false
+                  },
+                  { "text": "வட்டம்", "value": true
+                  }
+              ]
+          },
+          {
+            "image": "assets/மலர்.jpg",
+            "text": "மலர்",
+            "audio": "மலர்.mp3",
+            "answer": [
+                  "ம",
+                  "ல",
+                  "ர்"
+              ],
+            "choices": [
+                  { "text": "மாலை", "value": false
+                  },
+                  { "text": "செடி", "value": false
+                  },
+                  { "text": "மலர்", "value": true
+                  },
+                  { "text": "மரம்", "value": false
+                  }
+              ]
+          },
+          {
+            "image": "assets/வயல்.jpg",
+            "text": "வயல்",
+            "audio": "வயல்.mp3",
+            "answer": [
+                  "வ",
+                  "ய",
+                  "ல்"
+              ],
+            "choices": [
+                  { "text": "வயல்", "value": true
+                  },
+                  { "text": "தோப்பு", "value": false
+                  },
+                  { "text": "காடு", "value": false
+                  },
+                  { "text": "குளம்", "value": false
+                  }
+              ]
+          },
+          {
+            "image": "assets/பழங்கள்.jpg",
+            "text": "பழங்கள்",
+            "audio": "பழங்கள்.mp3",
+            "answer": [
+                  "ப",
+                  "ழ",
+                  "ங்",
+                  "க",
+                  "ள்"
+              ],
+            "choices": [
+                  { "text": "குளிர்பானம்", "value": false
+                  },
+                  { "text": "பழங்கள்", "value": true
+                  },
+                  { "text": "உணவு", "value": false
+                  },
+                  { "text": "காய்கறிகள்", "value": false
+                  }
+              ]
+          }
+        
     ]
 ]
